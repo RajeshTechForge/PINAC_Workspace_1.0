@@ -1,19 +1,20 @@
 
-## ⚠️ Repository Notice ⚠️
-
-**Important Update**: This repository is no longer being actively maintained. We are excited to announce that development is continuing in our new repository, **PINAC_Workspace** from @pinacai
-
-
-## ✨ Development to get better: visit [PINAC Workspace 2.0](https://github.com/pinacai/PINAC_Workspace)
-As we continue to innovate and improve, we've realized that the **Eel framework**, while robust, offers limited features for our ambitious goals. That's why we're thrilled to introduce **PINAC_Workspace-2.0** —a leap forward into a more dynamic and expansive development environment.
+> [!WARNING]
+> ## ⚠️ Repository Notice ⚠️
+>
+> **Important Update**: This repository is no longer being actively maintained. We are excited to announce that development is continuing in our new repository, **PINAC_Workspace**
+>
+>
+>## ✨ Development to get better: visit [PINAC Workspace 2.0](https://github.com/RajeshTechForge/PINAC_Workspace)
+>As we continue to innovate and improve, we've realized that the **Eel framework**, while robust, offers limited features for our ambitious goals. That's why we're thrilled to introduce **PINAC_Workspace-2.0** —a leap forward into a more dynamic and expansive development environment.
 Here's what new to expect:
-- Introduced Next Gen Chat feature, you just need one chat for all your task. Say goodbye to window switching!
-- A seamless integration of **Electron JS** for a robust core and **React JS** for a responsive frontend, complemented by the power of Python in the backend.
-- Enhanced optimization for **multiplatform compatibility**, ensuring a smooth and consistent experience across all devices.
-- A commitment to **code clarity** and maintainability, making it easier for developers to contribute and collaborate.
-- Recognition and incorporation of **community contributions**—your valuable code from PINAC-Workspace will be part of this new chapter.
-
-***Thanks to all our contributors for their support, we're excited for you to join us on this journey to a more versatile and powerful workspace***
+> - Introduced Next Gen Chat feature, you just need one chat for all your task. Say goodbye to window switching!
+> - A seamless integration of **Electron JS** for a robust core and **React JS** for a responsive frontend, complemented by the power of Python in the backend.
+> - Enhanced optimization for **multiplatform compatibility**, ensuring a smooth and consistent experience across all devices.
+> - A commitment to **code clarity** and maintainability, making it easier for developers to contribute and collaborate.
+> - Recognition and incorporation of **community contributions**—your valuable code from PINAC-Workspace will be part of this new chapter.
+>
+> ***Thanks to all our contributors for their support, we're excited for you to join us on this journey to a more versatile and powerful workspace***
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
